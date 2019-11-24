@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{2E3961E1-116E-4BDE-9888-AAC6C5C72810}|Capstone4">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Tasks.cs">
+    <Files>
+      <File FileName="Views/Tasks/AddTask.cshtml" Line="9" Column="22" />
+      <File FileName="Views/Tasks/ListTasks.cshtml" Line="22" Column="59" />
+      <File FileName="Controllers/TaskController.cs" Line="42" Column="10" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="37" />
+      <File FileName="Models/Tasks.cs" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Capstone4" expanded="True">
+            <Node name="Capstone4" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Tasks.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Tasks" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Capstone4 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

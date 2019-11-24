@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "AddTask";
+}
+@model string
+
+<form action="../Tasks/AddTask" method="post">
+    <input type="hidden" name="UserId" value="@Model" />
+    <input type="text" name="Description" placeholder="Description"/>
+    <input type="date" name="DueDate"/>
+    <input type="hidden" name="Complete" value="false"/>
+
+    <input type="submit" value="Add New Task"/>
+</form>
